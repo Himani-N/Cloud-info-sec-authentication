@@ -1,0 +1,10 @@
+[+] User 'alice' registered successfully.
+[+] User 'bob' registered successfully.
+[+] Authentication successful for alice
+[-] Authentication failed: incorrect password
+[*] Encrypted: 27mNey6EFRXdnSAnMdq0dknWRYu4qWujwADtiyWjwRvcA1aqc5buBpaRXonyORaFQPg=
+[*] Decrypted: This is Alice's secret cloud file.
+[!] User 'bob' has been revoked.
+[-] Authentication failed: user not found or revoked
+[*] Blockchain valid? True
+[*] Blockchain length: 6
