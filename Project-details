@@ -1,0 +1,49 @@
+📘 Overview
+
+A secure cloud identity authentication system built using encryption (AES & RSA) and blockchain technology.
+The project enhances cloud data protection through decentralized, tamper-proof, and continuous authentication.
+
+⚙️ Features
+
+🔐 Blockchain-based authentication
+
+🔑 AES & RSA encryption
+
+🧍‍♂️ Multi-factor verification
+
+📈 High scalability and security
+
+🧱 Continuous session monitoring
+
+🧠 Methodology
+
+Combines blockchain, encryption algorithms, and multi-factor authentication
+
+Provides tamper-proof records, data confidentiality, and real-time identity validation
+
+Uses Python with libraries: cryptography, hashlib, base64, os, json, time
+
+💻 Implementation
+
+Architecture: Client–Server model
+
+Modules:
+
+User Registration & Authentication
+
+AES Encryption/Decryption
+
+Blockchain Logging
+
+User Revocation
+
+
+📊 Results
+
+✅ Low latency and high throughput
+✅ 84%+ encryption accuracy
+✅ Strong resistance to replay and tampering attacks
+
+🏁 Conclusion
+
+This project provides a secure, decentralized, and scalable identity authentication model for cloud environments using encryption and blockchain technologies.
